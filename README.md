@@ -1,31 +1,18 @@
 # Certificates
 
-#### Developing AI Applications with Python and Flask - IBM | Coursera <sub>Issued Jul 2024</sub> | <sub>Credential ID: FPFTGDUBN7GK</sub>
+#### Developing AI Applications with Python and Flask - IBM | Coursera <sub>Issued Jul 2024 | Credential ID: FPFTGDUBN7GK</sub>
   
+#### Python for Data Science, AI & Development - IBM | Coursera <sup>Issued Jul 2023 | Credential ID: 6NWQA7PZ8H4V</sup>
 
-#### Python for Data Science, AI & Development - IBM | Coursera
-  <sup>Issued Jul 2023<br />
-  Credential ID: 6NWQA7PZ8H4V</sup>
+#### Python Specialization - Coursera <sup>Issued Nov 2023 | Credential ID: 3FQS8UP4KV8B</sup>
 
-#### Python Specialization - Coursera
-  <sup>Issued Nov 2023<br />
-  Credential ID: 3FQS8UP4KV8B</sup>
+#### Meta Programming in Python - Coursera <sup>Issued Nov 2023 | Credential ID: D2XL5JXW3E8G</sup>
 
-#### Meta Programming in Python - Coursera
-  <sup>Issued Nov 2023<br />
-  Credential ID: D2XL5JXW3E8G</sup>
+#### Meta The Full Stack - Coursera <sup>Issued Nov 2023 | Credential ID: 6URPANJ6UQJG</sup>
 
-#### Meta The Full Stack - Coursera
-  <sup>Issued Nov 2023<br />
-  Credential ID: 6URPANJ6UQJG</sup>
+#### Meta Back-End Developer - Coursera <sup>Issued Dec 2023 | Credential ID: SDLR6K58LCZF</sup>
 
-#### Meta Back-End Developer - Coursera
-  <sup>Issued Dec 2023<br />
-  Credential ID: SDLR6K58LCZF</sup>
-
-#### Meta Front-End Developer - Coursera
-  <sup>Issued Dec 2023<br />
-  Credential ID: PNAPWJYFTD6F</sup>
+#### Meta Front-End Developer - Coursera <sup>Issued Dec 2023 | Credential ID: PNAPWJYFTD6F</sup>
   
 ### Professional Summary:
 - Over 10 years of experience as a Web developer with solid understanding of database designing, development and installation of the different modules.
