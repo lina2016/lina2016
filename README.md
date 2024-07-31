@@ -1,8 +1,8 @@
 # Certificates
 
 #### Developing AI Applications with Python and Flask - IBM | Coursera
-  *Issued Jul 2024*<br />
-  <sup>Credential ID: FPFTGDUBN7GK</sup>
+  <sup>Issued Jul 2024<br />
+  Credential ID: FPFTGDUBN7GK</sup>
 
 #### Python for Data Science, AI & Development - IBM | Coursera
   *Issued Jul 2024*<br />
