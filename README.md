@@ -1,8 +1,8 @@
 # Certificates
 
 #### Developing AI Applications with Python and Flask - IBM | Coursera
-  <sup>Issued Jul 2024<br />
-  Credential ID: FPFTGDUBN7GK</sup>
+  ###### Issued Jul 2024<br />
+  ###### Credential ID: FPFTGDUBN7GK
 
 #### Python for Data Science, AI & Development - IBM | Coursera
   <sup>Issued Jul 2023<br />
@@ -20,17 +20,17 @@
   <sup>Issued Nov 2023<br />
   Credential ID: 6URPANJ6UQJG</sup>
 
-##### Meta Back-End Developer - Coursera
+#### Meta Back-End Developer - Coursera
   <sup>Issued Dec 2023<br />
   Credential ID: SDLR6K58LCZF</sup>
 
-##### Meta Front-End Developer - Coursera
+#### Meta Front-End Developer - Coursera
   <sup>Issued Dec 2023<br />
   Credential ID: PNAPWJYFTD6F</sup>
   
 ### Professional Summary:
-•	Over 10 years of experience as a Web developer with solid understanding of database designing, development and installation of the different modules.
-•	Extensive experience in software solutions for Businesses and Enterprises using technologies PHP, HTML, CSS, JavaScript SQL and MYSQL.
+- Over 10 years of experience as a Web developer with solid understanding of database designing, development and installation of the different modules.
+- Extensive experience in software solutions for Businesses and Enterprises using technologies PHP, HTML, CSS, JavaScript SQL and MYSQL.
 •	Knowledge of Various PHP Development tools and debuggers.
 •	Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed.
 •	Extensively worked with AJAX technology.
