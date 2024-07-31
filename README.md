@@ -2,11 +2,11 @@
 
 #### Developing AI Applications with Python and Flask - IBM | Coursera
   *Issued Jul 2024*<br />
-  Credential ID: FPFTGDUBN7GK
+  <sup>Credential ID: FPFTGDUBN7GK</sup>
 
 #### Python for Data Science, AI & Development - IBM | Coursera
   *Issued Jul 2024*<br />
-  Credential ID: 6NWQA7PZ8H4V
+  <sub>Credential ID: 6NWQA7PZ8H4V</sub>
 
 #### Python Specialization - Coursera
   *Issued Nov 2023*<br />
@@ -21,11 +21,11 @@
   Credential ID: 6URPANJ6UQJG
 
 ##### Meta Back-End Developer - Coursera
-  *Issued Dec 2023*
+  *Issued Dec 2023*<br />
   Credential ID: SDLR6K58LCZF
 
 ##### Meta Front-End Developer - Coursera
-  *Issued Dec 2023*
+  *Issued Dec 2023*<br />
   Credential ID: PNAPWJYFTD6F
 
 ### Skills:
