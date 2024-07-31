@@ -1,4 +1,9 @@
-Licenses & certifications
+### Certificates
+
+- Certificate of Completion
+- Python Fundamentals
+- Machine Learning Specialization
+
 
 IBM | Coursera
 Developing AI Applications with Python and Flask - IBM | Coursera
