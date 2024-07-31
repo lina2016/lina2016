@@ -27,6 +27,29 @@
 ##### Meta Front-End Developer - Coursera
   <sup>Issued Dec 2023<br />
   Credential ID: PNAPWJYFTD6F</sup>
+  
+### Professional Summary:
+•	Over 10 years of experience as a Web developer with solid understanding of database designing, development and installation of the different modules.
+•	Extensive experience in software solutions for Businesses and Enterprises using technologies PHP, HTML, CSS, JavaScript SQL and MYSQL.
+•	Knowledge of Various PHP Development tools and debuggers.
+•	Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed.
+•	Extensively worked with AJAX technology.
+•	Experienced in IDEs like Dream weaver, Eclipse, Net Beans, Adobe Photoshop, GitHub.
+•	Expert knowledge in MySQL, MS-SQL.
+•	PHP based modification on Wordpress content management system and Opencart e-commerce platform.
+•	MySQL databases and built PHP pages.
+•	Experienced in working with both PHPMyAdmin and MySQL console.
+•	Experienced in writing Sub Queries, Triggers, Cursors, Functions and Transactions according to the requirement.
+•	Proficient in handling various technical related queries and issues independently.
+•	Experienced in implementing slick Web 2.0 technology like AJAX and advanced DOM manipulation with
+•	Extensive expertise in front-end development using HTML, CSS, JavaScript, XML, JSON, Jquery.
+•	High experienced in Google Map API.
+•	Experience in various Libraries/APIs -  Twitter API, Google Chart API, Node.js, Facebook API, jQuery, Google API, Google+ API, React.js, pChart, SimplePie, fusionCharts, AngularJs
+•	Highly motivated, reliable analytical problem solver and troubleshooter with strong attention to detail.
+•	Experience of completing small and medium sized projects depending upon the functionality of websites.
+•	Excellent analytical and communication skills with capability to learn & handle new technologies.
+•	Ability to coordinate and work with team members on the web development projects
+•	Ability to work under pressure and meet deadlines.
 
 ### Skills:
 - PHP - Python - Django - React.js - Flask - AI Development - CSS3 - HTML5 - Front-End Development - UX UI  Version Control - User Interface Design  
