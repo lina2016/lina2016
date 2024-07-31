@@ -14,7 +14,7 @@
 
 #### Meta Programming in Python - Coursera
   *Issued Nov 2023*<br />
-  Credential ID: D2XL5JXW3E8G
+  <span style="font-size:0.5em;">Credential ID: D2XL5JXW3E8G</span>
 
 #### Meta The Full Stack - Coursera
   *Issued Nov 2023*<br />
