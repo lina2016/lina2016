@@ -36,4 +36,7 @@
 - Ability to work under pressure and meet deadlines.
 
 ### Skills:
-- PHP - Python - Django - React.js - Flask - AI Development - CSS3 - HTML5 - Front-End Development - UX UI  Version Control - User Interface Design  
+- PHP - Python - Django - React.js - Flask - AI Development - CSS3 - HTML5 - Front-End Development - UX UI  Version Control - User Interface Design
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/lina_jamadar23?theme=dark&font=Krub&ext=activity)
+
