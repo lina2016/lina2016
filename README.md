@@ -38,8 +38,13 @@
 ### Skills:
 - PHP - Python - Django - React.js - Flask - AI Development - CSS3 - HTML5 - Front-End Development - UX UI  Version Control - User Interface Design
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/lina_jamadar23?theme=wtf&font=Krub&ext=activity)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lina2016&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lina2016&langs_count=5&theme=tokyonight)]()
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/lina_jamadar23?theme=wtf&font=Krub&ext=activity)
+<a href="https://github.com/lina2016/github-stats">
+<img src="https://github.com/lina2016/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/lina2016/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/lina2016/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/lina2016/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
