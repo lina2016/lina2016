@@ -39,5 +39,5 @@
 - PHP - Python - Django - React.js - Flask - AI Development - CSS3 - HTML5 - Front-End Development - UX UI  Version Control - User Interface Design
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![LeetCode Stats](https://leetcard.jacoblin.cool/lina_jamadar23?theme=wtf&font=Krub&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/lina_jamadar23?theme=wtf&font=Krub)
 
