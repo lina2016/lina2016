@@ -15,25 +15,18 @@
 #### Meta Front-End Developer - Coursera <sup>Issued Dec 2023 | Credential ID: PNAPWJYFTD6F</sup>
   
 ### Professional Summary:
-- Over 10 years of experience as a Web developer with solid understanding of database designing, development and installation of the different modules.
-- Extensive experience in software solutions for Businesses and Enterprises using technologies PHP, HTML, CSS, JavaScript SQL and MYSQL.
-- Knowledge of Various PHP Development tools and debuggers.
-- Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed.
-- Experienced in IDEs like Dream weaver, Eclipse, Net Beans, Adobe Photoshop, GitHub.
-- Expert knowledge in MySQL, MS-SQL.
-- PHP based modification on Wordpress content management system and Opencart e-commerce platform.
-- MySQL databases and built PHP pages.
-- Experienced in working with both PHPMyAdmin and MySQL console.
-- Proficient in handling various technical related queries and issues independently.
-- Experienced in implementing slick Web 2.0 technology like AJAX and advanced DOM manipulation with
-- Extensive expertise in front-end development using HTML, CSS, JavaScript, XML, JSON, Jquery.
-- High experienced in Google Map API.
-- Experience in various Libraries/APIs -  Twitter API, Google Chart API, Node.js, Facebook API, jQuery, Google API, Google+ API, React.js, pChart, SimplePie, fusionCharts, AngularJs
-- Highly motivated, reliable analytical problem solver and troubleshooter with strong attention to detail.
-- Experience of completing small and medium sized projects depending upon the functionality of websites.
-- Excellent analytical and communication skills with capability to learn & handle new technologies.
-- Ability to coordinate and work with team members on the web development projects
-- Ability to work under pressure and meet deadlines.
+
+Highly skilled web developer with 10+ years of experience in PHP, HTML, CSS, JavaScript, and MySQL. Proven track record of improving web functionality and speed. Recently certified in Python programming and AI-related courses through Google Coursera, expanding skill set to leverage AI capabilities. Proficient in both front-end and back-end development, with a strong understanding of database management and AI concepts.
+
+### Key Strengths:
+
+- PHP expertise with 10+ years of experience
+- Full-stack development skills (front-end, back-end, database)
+- Python programming certification through Google Coursera
+- AI and machine learning concepts knowledge
+- Strong analytical and problem-solving skills
+- Ability to learn quickly and adapt to new technologies
+- Experience with various libraries/APIs and IDEs
 
 ### Skills:
 - PHP - Python - Django - React.js - Flask - AI Development - CSS3 - HTML5 - Front-End Development - UX UI  Version Control - User Interface Design
