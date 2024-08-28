@@ -31,7 +31,7 @@ Highly skilled web developer with 10+ years of experience in PHP, HTML, CSS, Jav
 ### Skills:
 - PHP - Python - Django - React.js - Flask - AI Development - CSS3 - HTML5 - Front-End Development - UX UI  Version Control - User Interface Design
 - 
-[![My Skills](https://skillicons.dev/icons?i=php,python,django,react,js,mysql,git,github,ai,sklearn, tensorflow,flask,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,python,django,react,js,mysql,git,github,ai,sklearn,tensorflow,flask,html,css)](https://skillicons.dev)
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lina_jamadar23?theme=wtf&font=Krub)
