@@ -1,4 +1,5 @@
 # Certificates
+#### IBM AI Engineering | Coursera <sub>Issued Sept 2024 | Credential ID: [WMJV9B0678N8](https://www.coursera.org/account/accomplishments/specialization/certificate/WMJV9B0678N8)</sub>
 
 #### Developing AI Applications with Python and Flask - IBM | Coursera <sub>Issued Jul 2024 | Credential ID: FPFTGDUBN7GK</sub>
   
