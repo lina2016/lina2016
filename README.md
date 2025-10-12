@@ -1,39 +1,62 @@
-# Certificates
-#### IBM AI Engineering | Coursera <sub>Issued Sept 2024 | Credential ID: [WMJV9B0678N8](https://www.coursera.org/account/accomplishments/specialization/certificate/WMJV9B0678N8)</sub>
+# 🎓 Certifications
 
-#### Developing AI Applications with Python and Flask - IBM | Coursera <sub>Issued Jul 2024 | Credential ID: FPFTGDUBN7GK</sub>
-  
-#### Python for Data Science, AI & Development - IBM | Coursera <sup>Issued Jul 2023 | Credential ID: 6NWQA7PZ8H4V</sup>
+#### IBM AI Engineering | Coursera  
+<sub>Issued Sept 2024 | [Credential ID: WMJV9B0678N8](https://www.coursera.org/account/accomplishments/specialization/certificate/WMJV9B0678N8)</sub>
 
-#### Python Specialization - Coursera <sup>Issued Nov 2023 | Credential ID: 3FQS8UP4KV8B</sup>
+#### Developing AI Applications with Python and Flask – IBM | Coursera  
+<sub>Issued Jul 2024 | Credential ID: FPFTGDUBN7GK</sub>
 
-#### Meta Programming in Python - Coursera <sup>Issued Nov 2023 | Credential ID: D2XL5JXW3E8G</sup>
+#### Python for Data Science, AI & Development – IBM | Coursera  
+<sub>Issued Jul 2023 | Credential ID: 6NWQA7PZ8H4V</sub>
 
-#### Meta The Full Stack - Coursera <sup>Issued Nov 2023 | Credential ID: 6URPANJ6UQJG</sup>
+#### Google Python Specialization – Coursera  
+<sub>Issued Nov 2023 | Credential ID: 3FQS8UP4KV8B</sub>
 
-#### Meta Back-End Developer - Coursera <sup>Issued Dec 2023 | Credential ID: SDLR6K58LCZF</sup>
+#### Meta Programming in Python – Coursera  
+<sub>Issued Nov 2023 | Credential ID: D2XL5JXW3E8G</sub>
 
-#### Meta Front-End Developer - Coursera <sup>Issued Dec 2023 | Credential ID: PNAPWJYFTD6F</sup>
-  
-### Professional Summary:
+#### Meta Full Stack Developer – Coursera  
+<sub>Issued Nov–Dec 2023 | Credential IDs: 6URPANJ6UQJG, SDLR6K58LCZF, PNAPWJYFTD6F</sub>
 
-Highly skilled web developer with 10+ years of experience in PHP, HTML, CSS, JavaScript, and MySQL. Proven track record of improving web functionality and speed. Recently certified in Python programming and AI-related courses through Google Coursera, expanding skill set to leverage AI capabilities. Proficient in both front-end and back-end development, with a strong understanding of database management and AI concepts.
+🔗 [View all credentials on my Coursera Profile](https://www.coursera.org/learner/lina-jamadar-1976)
 
-### Key Strengths:
+---
 
-- PHP expertise with 10+ years of experience
-- Full-stack development skills (front-end, back-end, database)
-- Python programming certification through Google Coursera
-- AI and machine learning concepts knowledge
-- Strong analytical and problem-solving skills
-- Ability to learn quickly and adapt to new technologies
-- Experience with various libraries/APIs and IDEs
+## 👩‍💻 Professional Summary
 
-### Skills:
-- PHP - Python - Django - React.js - Flask - AI Development - CSS3 - HTML5 - Front-End Development - UX UI  Version Control - User Interface Design
-- 
-[![My Skills](https://skillicons.dev/icons?i=php,python,django,react,js,mysql,git,github,ai,sklearn,tensorflow,flask,html,css)](https://skillicons.dev)
+AI/ML Engineer with 13+ years of software experience, recently transitioned from full-stack web development to building production-grade AI systems. Skilled in Python, TensorFlow, FastAPI, and MLOps workflows. Delivered NLP and deep learning models with up to 95% accuracy and 35% latency reduction. Passionate about operationalizing AI for real-world impact.
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+---
+
+## 🚀 Key Projects
+
+- **MovieMind** – Sentiment analysis app with 92% accuracy and sub-second latency  
+  🔗 [GitHub](https://github.com/lina2016/movie-sentiment-streamlit)
+
+- **Resume Analyzer** – NLP-based job matching tool with 25% improvement in recruiter alignment  
+  🔗 GitHub release planned
+
+- **Bitcoin Predictor** – LSTM model for time-series forecasting  
+  🔗 [GitHub](https://github.com/lina2016/bitcoin-prediction)
+
+- **USA Housing Forecast** – Regression model deployed via Streamlit  
+  🔗 [GitHub](https://github.com/lina2016/housing-forecast)
+
+---
+
+## 🧠 Skills & Tools
+
+- **Languages & Frameworks**: Python, PHP, Flask, Django, FastAPI, Angular, React.js  
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn, spaCy, NLTK  
+- **DevOps & Cloud**: Docker, Kubernetes, AWS, IBM Cloud, CI/CD  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Collaboration**: GitHub, Jira, Slack, Agile/Scrum
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,django,react,php,js,mysql,git,github,ai,sklearn,tensorflow)](https://skillicons.dev)
+
+---
+
+## 📊 Stats & Activity
+
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lina2016&layout=compact)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lina_jamadar23?theme=wtf&font=Krub)
-
