@@ -29,6 +29,8 @@ AI/ML Engineer with 13+ years of software experience, recently transitioned from
 ---
 
 ## 🚀 Key Projects
+- **Customer Support AI Platform SaaS** – Production-ready AI Customer Support SaaS platform with FastAPI, PostgreSQL, RAG, pgvector, autonomous AI agents, Celery, Redis, Docker.  
+  🔗 [GitHub](https://github.com/lina2016/customer-support-ai-platform)
 
 - **MovieMind** – Sentiment analysis app with 92% accuracy and sub-second latency  
   🔗 [GitHub](https://github.com/lina2016/movie-sentiment-streamlit)
